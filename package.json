@@ -1,0 +1,23 @@
+{
+  "name": "practice-writing-unittests-godfred-f",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfianu/practice-writing-unitTests-Godfred-F.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gfianu/practice-writing-unitTests-Godfred-F/issues"
+  },
+  "homepage": "https://github.com/gfianu/practice-writing-unitTests-Godfred-F#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
